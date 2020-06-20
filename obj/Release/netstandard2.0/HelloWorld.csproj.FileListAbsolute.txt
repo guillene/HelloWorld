@@ -1,0 +1,8 @@
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\bin\Release\netstandard2.0\HelloWorld.deps.json
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\bin\Release\netstandard2.0\HelloWorld.dll
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\bin\Release\netstandard2.0\HelloWorld.pdb
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\obj\Release\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\obj\Release\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\obj\Release\netstandard2.0\HelloWorld.AssemblyInfo.cs
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\obj\Release\netstandard2.0\HelloWorld.dll
+C:\Users\guillen.e.1\OneDrive - Procter and Gamble\Docs\@Archive\Github\Repos\HelloWorld\obj\Release\netstandard2.0\HelloWorld.pdb
